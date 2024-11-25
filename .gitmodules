@@ -1,0 +1,3 @@
+[submodule "amazonContract/lib/forge-std"]
+	path = amazonContract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
